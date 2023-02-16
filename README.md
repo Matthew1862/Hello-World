@@ -1,8 +1,5 @@
 # Hello-World
-Hello_World/
-└── 
-    │── README.md
-    │── pgmname1.R
-    │── filename1.csv
-    │── examples.html
-   
+ Project Title
+ Description
+ Files used 
+ Versoning
